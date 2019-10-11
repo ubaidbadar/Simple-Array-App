@@ -1,0 +1,59 @@
+body {
+    max-width: 1400px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: #EDEDED;
+}
+#top {
+    max-width: 1100px;
+    height: 75px;
+    background-color: purple;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+#midbox{
+    max-width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#hello{
+    font-size: 18px;
+    padding-top: 27.5px;
+    padding-bottom: 27.5px;
+    margin-right: 20px;
+    float: right;
+}
+#middle {
+    max-width: 1100px;
+    display: flex;
+}
+#detail{
+    width: 716px;
+    border-spacing: 10px;
+    margin-right: 23.5px;
+}
+#detail2{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+#detail3{
+    border: 1px solid;
+    min-height: 51px;
+}
+#generate {
+    margin-left: 23.5px;
+    border: 1px solid;
+    width: 333px;
+}
+.button{
+    margin-left: 8.3%;
+    margin-right: 8.3%;
+    display: block;
+    margin-top: 18px;
+    margin-bottom: 18px;
+    width: 84%;
+    padding-top: 3.4%;
+    padding-bottom: 3.4%;
+}
